@@ -1,0 +1,4 @@
+rvm_archflags="-Os -arch x86_64 -fno-common"
+# export rvm_pretty_print=1
+export rvm_pretty_print_flag=1
+export rvm_path="/Users/lucas.mundim/.rvm"
